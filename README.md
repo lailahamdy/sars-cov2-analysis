@@ -4,13 +4,6 @@
 
 This project conducts an in-depth analysis of the Delta and Omicron variants of the SARS-CoV-2 virus using bioinformatics techniques. The analysis includes consensus sequence determination, calculation of nucleotide content, and identification of dissimilar regions between the variants and a consensus sequence.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Imports](#imports)
-3. [Functions](#functions)
-4. [Code for Calculations on Delta and Omicron Variants](#code-for-calculations-on-delta-and-omicron-variants)
-
 ## Imports
 
 The Python script `FinalBioinfo.py` requires the following libraries to be installed:
